@@ -1,4 +1,4 @@
-i#include "binary_trees.h"
+#include "binary_trees.h"
 
 /**
  * array_to_heap - builds a Max Binary Heap tree
